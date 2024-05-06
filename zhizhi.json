@@ -151,16 +151,6 @@
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/玩偶哥哥.json"
     },
     {
-      "key":"玩你哥哥",
-      "name":"🌸玩你┃哥哥🌸",
-      "type": 3,
-      "api":"csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/玩你哥哥.json"
-    },
-    {
       "key":"玩偶土豆",
       "name":"🌸玩偶┃土豆🌸",
       "type": 3,
