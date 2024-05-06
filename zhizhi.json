@@ -1,4 +1,4 @@
-{
+@{
   "wallpaper":"https://picsum.photos/1280/720/?blur=2",
   "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/zhizhi.jar",
   "lives": [
@@ -497,7 +497,7 @@
       "key":"看球",
       "name":"🌸看球┃直播🌸",
       "type": 3,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/xiongmao.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/xiongmao.jar",
       "api":"csp_Kanqiu",
       "searchable": 1,
       "quickSearch": 1,
