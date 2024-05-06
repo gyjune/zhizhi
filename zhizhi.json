@@ -1,4 +1,4 @@
-{
+1{
   "wallpaper":"https://picsum.photos/1280/720/?blur=2",
   "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/zhizhi.jar",
   "lives": [
@@ -151,7 +151,7 @@
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/玩偶哥哥.json"
     },
 {
-      "key":"玩偶哥哥",
+      "key":"玩你哥哥",
       "name":"🌸玩你┃哥哥🌸",
       "type": 3,
       "api":"csp_XYQHikerAL",
