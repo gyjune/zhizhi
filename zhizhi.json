@@ -305,7 +305,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/厂长资源.js"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/厂长资源.js"
     },
     {
       "key":"nangua",
@@ -335,7 +335,7 @@
       "changeable": 1,
       "playerType":"1",
       "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/drpy2.min.js",
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/jianpian.js"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/jianpian.js"
     },
     {
       "key":"csp_Ikanbot",
