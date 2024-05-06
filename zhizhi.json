@@ -47,7 +47,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/token.txthubusercontent.com/gyjune/zhizhi/main/lib/token.txt",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
