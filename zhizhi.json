@@ -317,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/nangua.js"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/nangua.js"
     },
     {
       "key":"csp_Ddys",
