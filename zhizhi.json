@@ -483,7 +483,7 @@
     },
     {
       "key":"看球",
-      "name":"🌸┃看球┃直播🌸",
+      "name":"🌸看球┃直播🌸",
       "type": 3,
       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/xiongmao.jar",
       "api":"csp_Kanqiu",
