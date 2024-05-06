@@ -22,7 +22,7 @@
   "sites": [
     {
       "key":"drpy_js_豆瓣",
-      "name":"🔍西西影迷，不要相信任何广告",
+      "name":"🔍西西影迷不要相信任何广告",
       "type": 3,
       "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/drpy2.min.js",
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/drpy.js"
@@ -35,13 +35,13 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/阿里设置.txt"
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/阿里设置.txt"
     },
      {
       "key":"玩偶",
       "name":"🌸玩偶┃弹幕🌸",
       "type": 3,
-      "jar":"https://8177.kstore.space/xiangyaqing/js/fang.jar",
+      "jar":"https://8177.kstore.space/xiangyaqing/jar/fang.jar",
       "api":"csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
@@ -259,7 +259,7 @@
       "key":"csp_XYQBiu_骚火VIP",
       "name":"🌸骚火┃影视🌸",
       "type": 3,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/ttkx.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/kaixin.jar",
       "api":"csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -270,7 +270,7 @@
       "key":"TVB云播",
       "name":"🌸云播┃影视🌸",
       "type": 3,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/ttkx.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/ttkx.jar",
       "api":"csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -281,7 +281,7 @@
       "key":"csp_视觉",
       "name":"🌸视觉┃影视🌸",
       "type": 3,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/ttkx.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/kaixin.jar",
       "api":"csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -292,7 +292,7 @@
       "key":"米爱影视",
       "name":"🌸米爱┃影视🌸",
       "type": 3,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/ttkx.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/kaixin.jar",
       "api":"csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -487,7 +487,7 @@
       "key":"看球",
       "name":"🌸┃看球┃直播🌸",
       "type": 3,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/xiongmao.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/xiongmao.jar",
       "api":"csp_Kanqiu",
       "searchable": 1,
       "quickSearch": 1,
@@ -511,7 +511,7 @@
     },
     {
       "key":"88js",
-      "name":"🌸88球┃直播迷🌸",
+      "name":"🌸88球┃直播🌸",
       "type": 3,
       "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/drpy2.min.js",
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/js/88kanqiu.js",
