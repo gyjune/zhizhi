@@ -47,9 +47,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/token.txt",
-        "quarkCookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/lib/cookie.txt",
-        "from": "4k|auto|fhd",
+        "aliToken": "fan/token.txt",   "quarkCookie": "fan/cookie.txt" ,   "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "null"
       }
