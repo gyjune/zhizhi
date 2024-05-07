@@ -38,22 +38,22 @@
           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/阿里设置.txt"
         },
 
-      {
-           "key": "玩偶",
-           "name": "🌸玩偶┃弹幕🌸",
-           "type": 3,
-           "api": "csp_WoGG",
-           "searchable": 1,
-           "quickSearch": 1,
-           "changeable": 0,
-           "ext": {
-             "aliToken": "tvfan/token.txt",
-             "quarkCookie": "tvfan/cookie.txt",
-             "from": "4k|auto|fhd",
-             "siteUrl": "https://www.wogg.link/",
-             "danMu": "弹"
-           }
-         },
+          {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
+    },
     {
       "key":"drpy_js_奇珍异兽",
       "name":"🌸奇艺┃官方🌸",
