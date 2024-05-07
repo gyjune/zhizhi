@@ -1,6 +1,6 @@
 {
   "wallpaper":"https://picsum.photos/1280/720/?blur=2",
-  "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/xxym.jar",
+  "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/zizhi.jar",
   "lives": [
     {
       "name":"本地live文件",
@@ -42,7 +42,6 @@
            "key": "玩偶",
            "name": "🌸玩偶┃弹幕🌸",
            "type": 3,
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/zhizhi/main/jar/fan.txt",
            "api": "csp_WoGG",
            "searchable": 1,
            "quickSearch": 1,
