@@ -1,10 +1,10 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/gk/lib/main/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/gk0749/gk/lib/main/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/gk/lib/main/zy.jar",
     "lives": [
         {
             "name": "live",
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/gk/lib/main/pro.txt",
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/gk0749/gk/lib/main/pro.txt",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -16,7 +16,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/gk0749/gk/lib/main/pro.txt"
+                        "proxy://do=live&type=txt&ext=https://gh.llkk.cc/https://raw.githubusercontent.com/gk0749/gk/lib/main/pro.txt"
                     ]
                 }
             ]
